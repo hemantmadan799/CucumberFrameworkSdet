@@ -24,5 +24,6 @@ public class BaseClass {
         String generatedString1 = RandomStringUtils.randomAlphabetic(5);
         return (generatedString1);
     }
+    //test 
 
 }

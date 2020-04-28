@@ -27,7 +27,7 @@ public class Steps extends BaseClass{
     public void setup() throws IOException
     {
 
-        //Logger steps
+        //Logger steps are given below
         logger= Logger.getLogger("nopcommerce");
         PropertyConfigurator.configure("Log4j.properties");
         logger.setLevel(Level.DEBUG);
